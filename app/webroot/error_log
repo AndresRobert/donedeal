@@ -1,0 +1,8 @@
+[07-Sep-2018 01:37:56 America/Santiago] PHP Fatal error:  Call to undefined method View::redirect() in /home/arcodepr/tesol/admin/app/View/Errors/error400.ctp on line 29
+[07-Sep-2018 07:38:02 America/Santiago] PHP Fatal error:  Call to undefined method View::redirect() in /home/arcodepr/tesol/admin/app/View/Errors/error400.ctp on line 29
+[07-Sep-2018 09:07:33 America/Santiago] PHP Fatal error:  Call to undefined method View::redirect() in /home/arcodepr/tesol/admin/app/View/Errors/error400.ctp on line 29
+[15-Nov-2018 10:16:24 America/Santiago] PHP Parse error:  syntax error, unexpected 'setcookie' (T_STRING) in /home/arcodepr/acode/donedeal/app/Controller/UsersController.php on line 143
+[15-Nov-2018 10:23:55 America/Santiago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/arcodepr/acode/donedeal/app/Controller/UsersController.php on line 145
+[15-Nov-2018 10:24:31 America/Santiago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home/arcodepr/acode/donedeal/app/Controller/UsersController.php on line 145
+[15-Nov-2018 11:12:48 America/Santiago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/arcodepr/acode/donedeal/lib/Cake/Controller/Component/FlashComponent.php on line 88
+[15-Nov-2018 11:12:52 America/Santiago] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/arcodepr/acode/donedeal/lib/Cake/Controller/Component/FlashComponent.php on line 88
